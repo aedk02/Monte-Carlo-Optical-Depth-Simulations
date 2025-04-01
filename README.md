@@ -1,5 +1,5 @@
 # Monte-Carlo-Optical-Depth-Simulations
-Simulator to test the effect of optical depth on photon scattering through a uniform density sphere of radius 1m 
+Simulator to test the effect of optical depth on photon scattering through a uniform density sphere of radius 1m.
 
 We assume:
 
